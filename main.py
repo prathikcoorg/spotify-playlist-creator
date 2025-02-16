@@ -138,19 +138,3 @@ sp.playlist_add_items(playlist_id=playlist["id"], items=song_uris)
 
 
 
-
-# last_song_index = songs_name.index - 1  
-# filtered_songs = songs_name[:last_song_index]
-# for song in filtered_songs:
-#     print(song)
-
-
-# print(songs_name)
-# for song in songs_name(len(songs_name)-1):
-#     print(song)
-# print(songs_name)
-# for song in song_name:
-#     songs_name = song.getText()
-#     print(songs_name)
-# print(song_name)
-
